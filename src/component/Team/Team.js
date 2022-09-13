@@ -6,9 +6,10 @@ import GroupsIcon from '@mui/icons-material/Groups';
 import QuestionAnswerIcon from '@mui/icons-material/QuestionAnswer';
 const Team = () => {
   return (
-    <>
+    <> 
 <section id="team" class="pb-5">
 <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+
 <h6 className="text-primary"><i>Yogmaya</i></h6>
       <h1 className="text-md"><GroupsIcon fontSize="large"  color="secondary"></GroupsIcon>  OUR TEAM</h1>
       <hr style={{ margin: "20px 0" }} />
